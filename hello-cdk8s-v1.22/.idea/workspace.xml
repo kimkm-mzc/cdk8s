@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87723539-addf-47f0-9a35-54cf13a6ba0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hello-cdk8s-v1.20/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cdk8s+-v1.22/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cdk8s+-v1.22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cdk8s+-v1.22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cdk8s+-v1.22/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/git/hello-cdk8s-1.22",
+    "last_opened_file_path": "C:/git/cdk8s/hello-cdk8s+-v1.22",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660290002389</updated>
-      <workItem from="1660290003692" duration="3473000" />
+      <workItem from="1660290003692" duration="4899000" />
     </task>
     <servers />
   </component>
